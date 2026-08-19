@@ -1,4 +1,4 @@
-# AQI-Prediction-before-and-after-Lockdown-of-COVID-19-in-India using SARIMA and LSTM
+# AQI Prediction before and after Lockdown of COVID 19 in India using SARIMA and LSTM
 
 1. The study analyses the AQI and predicts before and after lockdown of COVID-19 in India. The values for the future is also predicted using the SARIMA model and LSTM algorithm.  
 
